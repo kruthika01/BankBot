@@ -1,3 +1,4 @@
+![Screenshot 2025-06-11 155752](https://github.com/user-attachments/assets/c5b137ea-7db1-4b3d-96f2-d5e23861f1ca)
 # BankBot
 # BankBot - AI Banking Chatbot
 
